@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0649af3-6834-4566-993b-2e578cbf8760" name="Changes" comment="Company">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Company1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/Dvornik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/Trainee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/Employeer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/Employeer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/PROF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/PROFESSION.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/Secretary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/Secretary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/FindeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +19,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -51,15 +40,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/MY/QA/JAVA/test",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "copyright"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/MY/QA/JAVA/test&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -90,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683314641406</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Company">
+      <created>1683431475183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683431475183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
