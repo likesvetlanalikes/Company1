@@ -10,4 +10,9 @@ public class Secretary extends Employeer{
     public void setProfession() {
         this.profession=PROFESSION.WORKER;
     }
+
+    @Override
+    public Employeer[] getEmployeers() {
+        return new Employeer[0];
+    }
 }

@@ -41,4 +41,9 @@ public class Worker extends Employeer {
                 " employees=" + Arrays.toString(employees) +
                 '}';
     }
+
+    @Override
+    public Employeer[] getEmployeers() {
+        return new Employeer[0];
+    }
 }

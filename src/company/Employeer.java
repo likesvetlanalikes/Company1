@@ -46,4 +46,6 @@ public abstract class Employeer extends Person {
     protected int getSalary(int i) {
         return 0;
     }
+
+    public abstract Employeer[] getEmployeers();
 }

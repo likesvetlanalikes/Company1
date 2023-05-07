@@ -26,6 +26,10 @@ public class Main {
 
          worker1.addWorker(trainee1);
 
+         Service service = new Service();
+
+         service.finde(worker1, "W4");
+
         System.out.println(director1);
 
     }
