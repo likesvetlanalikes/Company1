@@ -1,6 +1,6 @@
 package company;
 
-public class Secretary extends Employee{
+public class Secretary extends Employeer{
 
     public Secretary(String name, String surname, int exp) {
         super(name, surname, exp);

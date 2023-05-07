@@ -2,6 +2,8 @@ package company;
 
 public enum PROFESSION {
     WORKER(2),
+
+    TRAINEE(1),
     DIRECTOR(3);
 
     private int koef;
@@ -14,3 +16,4 @@ public enum PROFESSION {
         return koef;
     }
 }
+

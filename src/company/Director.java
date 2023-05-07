@@ -2,9 +2,8 @@ package company;
 
 import java.util.Arrays;
 
-public class Director extends Employee {
+public class Director extends Employeer {
 
-    Employee[] employees;
 
     public Director(String name, String surname, int exp) {
         super(name, surname, exp);
@@ -15,9 +14,9 @@ public class Director extends Employee {
         this.profession = PROFESSION.DIRECTOR;
     }
 
-    public void addworker(Employee employee) {
+    public void addworker(Employeer employee) {
         if (employees == null) {
-            employees = new Employee[1];
+            employees = new Employeer[1];
             employees[0] = employee;
         } else {
             employees = Arrays.copyOf(employees, employees.length + 1);

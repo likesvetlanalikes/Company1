@@ -16,6 +16,9 @@ public class Person {
                 ", surname='" + surname + '\'' +
                 '}';
     }
+
+    protected void addWorker(Employeer employeer) {
+    }
 }
 
 
